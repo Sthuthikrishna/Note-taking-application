@@ -1,0 +1,46 @@
+.main {
+    width: 1077px;
+    left: 434px;
+    background-color: #E8E8E8;
+    position: absolute;
+}
+.title {
+    height: 98px;
+    width: 1078px;
+    left: 434px;
+    top: 0px;
+
+}
+.container {
+    height: 854px;
+    left: 435px;
+    top: 98px;
+    border-radius: [object Object]px;
+    background-color: #F7ECDC;
+    fill: solid;
+    overflow-y: scroll;
+
+}
+.note {
+    height: 211px;
+width: 1014px;
+top: 720px;
+border-radius: 9px;
+background-color: #fff;
+color: #1f1b1b;
+font-size: 20px;
+line-height: 1.87;
+padding: 20px;
+margin: 30px;
+
+}
+img {
+    height: 29px;
+width: 34.4375px;
+left: 980px;
+bottom: 70px;
+font-size: 20px;
+position: absolute;
+cursor: pointer;
+
+}

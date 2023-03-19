@@ -1,0 +1,35 @@
+.sidebar {
+    background-color: white;
+
+}
+h1 {
+    height: 37px;
+width: 197px;
+top: 98px;
+font-family: Roboto;
+margin-left: 20px;
+font-size: 30px;
+}
+.groupList_item {
+    font-size: 20px;
+    position: absolute;
+    margin: 80px 50px;
+    gap: 50px;
+}
+.item {
+    display: flex;
+    gap: 20px;
+}
+.item h1 {
+    width: 60px;
+    height: 60px;
+    background-color:#B38BFA ;
+    border-radius: 50%;
+    padding: 10px;
+}
+.item span {
+    font-size: 25px;
+    margin-top: 10px;
+}
+
+
